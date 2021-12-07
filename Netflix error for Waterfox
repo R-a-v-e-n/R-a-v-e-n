@@ -1,0 +1,15 @@
+I am trying to relay this information to Alex Kontos for action for the next Waterfox update. -- @r-a-v-e-n.
+
+As of early hours Tuesday December 7, 2021 (what a date!), Netflix videos no longer play on Waterfox.
+They receive the Netflix Error F7121-3078, with the message "Pardon the interruption, Looks like your browser
+is no longer supported. Please install the latest version or try another browser".
+
+Two days prior, Netflix videos (including the first half of the SAME movie now unviewable) had been possible
+to watch without any problems at all. No browser or system changes had occurred in the meantime.
+
+The browser was Waterfox Current G4.0.3.1 (64-bit), on a macOS BigSur 11.6.1 MacBook -- both the most recent --
+and, following instructions, the MacBook was rebooted, the browser restarted, but the same Error recurred.
+
+The error was reported online to Netflix, and by chat to Netflix. The Netflix advisor remarked that Waterfox
+is *not* one of the Netflix supported browsers (although Firefox is), and suggested that Waterfox contact
+Netflix to coordinate updates to become compatible with Netflix again.
